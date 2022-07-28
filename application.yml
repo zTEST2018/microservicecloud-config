@@ -7,7 +7,7 @@ srping:
 srping: 
  profiles: dev
   application: 
-   name: microservicecloud-config-pz-dev
+   name: microservicecloud-config-pz-devxxx
 ---
 srping: 
  profiles: test
