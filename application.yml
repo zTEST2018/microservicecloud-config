@@ -1,0 +1,15 @@
+srping: 
+ profiles: 
+  active: 
+   - dev
+
+---
+srping: 
+ profiles: dev
+  application: 
+   name: microservicecloud-config-pz-dev
+---
+srping: 
+ profiles: test
+  application: 
+   name: microservicecloud-config-pz-dev
