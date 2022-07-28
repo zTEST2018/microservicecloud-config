@@ -6,10 +6,10 @@ srping:
 ---
 srping: 
  profiles: dev
-  application: 
-   name: microservicecloud-config-pz-devxxx
+ application: 
+  name: microservicecloud-config-pz-devxxx
 ---
 srping: 
  profiles: test
-  application: 
-   name: microservicecloud-config-pz-dev
+ application: 
+  name: microservicecloud-config-pz-dev
