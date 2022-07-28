@@ -1,15 +1,15 @@
-srping: 
+spring: 
  profiles: 
-  active: 
+ active: 
    - dev
 
 ---
-srping: 
+spring: 
  profiles: dev
- application: 
-  name: microservicecloud-config-pz-devxxx
+  application: 
+   name: microservicecloud-config-pz-devxxx
 ---
-srping: 
+spring: 
  profiles: test
- application: 
-  name: microservicecloud-config-pz-dev
+  application: 
+   name: microservicecloud-config-pz-dev
